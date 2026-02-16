@@ -1,180 +1,577 @@
-KİMLİK VE AMAÇ
-
-1. Bu siteyi açma temel motivasyonun nedir? Tepki mi, inşa mı?
-İnşa. Fikirlerimin derli toplu halde bulunması ve İslam almeindeki yanlışların düzeltilmesi
-
-2. Kendini daha çok düşünür mü, aktivist mi, müellif mi görüyorsun?
-Kendimi Müslüman bir kürd olarak görüyorum. Hem düşünür hem müellif
-
-3. Site uzun vadede bir okul gibi mi olacak yoksa kişisel arşiv mi?
-Temel amacım kişisel arşiv ama zaman ne gösterir belli değil. 
-
-4. Hedef kitlen kim? Gençler mi, entelektüeller mi, muhafazakâr çevre mi?
-Hepsi
-
-5. Bu site 5 yıl sonra neye dönüşmüş olmalı?
-Beş yıl sonra fikirlerimin derli toplu olduğu temelli bir fikir alanına dönmeli
-
-
-METODOLOJİ
-
-6. Kur’an yorumunda hangi yaklaşımı benimsiyorsun?
-Evvela dirayet yani akıl yoluyla, sonra idiği tarihsel bağlamda, sonra
-
-7. Hadis konusunda sınırın nedir?
-Kurana ve akla sığdığı noktada ele alınır. Ele alınacak hadisin şartları ise tam sahihliğidir. Bir milyon kişi sahihtir desin 1 kişi ravilerden biri unutkandı derse problemli hadistir.
-
-8. Mezheplerle mesafen nasıl?
-Mezheplerde kendi fikirlerine göre sistematik oluşturmuş dini kaynak olarak kullanan ama dine bağımlı olmayan yapılardır bence. Din mezheplere kaynaktır ama mezhepler dine kaynak olamaz.
-
-9. Tasavvufa bakışın nasıl konumlanacak?
-Kişisel deneyimdir.
-
-10. Aklın rolü ne olacak?
-Akıl en önemli ikinci şeydir. İlki vahiy ikincisi akıldır
-
-
-SİYASAL ÇERÇEVE
-
-11. Devlet tasavvurun teorik mi pratik mi?
-Pratik. Egemenlik Allaha ait olduğu için devlet emanetçisidir.
-
-12. Şeriat kavramını nasıl çerçeveleyeceksin?
-Şeriat kuran temelli kuralların olduğu çağın sorunlarına da gelenek temelli cevap veren bir kanun sistemidir.
-
-13. Hilafet meselesini nostaljik mi stratejik mi ele alacaksın?
-Hilafet stratejiktir. İslam dünyasını birbirine bağlayan yegane çizgidir.
-
-14. Ulus-devlet eleştirisi yapacak mısın?
-Hayır her kavim kendini yönetmekte özgürdür. 
-
-15. Laiklik konusundaki yaklaşımın tonu sert mi analitik mi?
-Laiklik yok.
-
-
-KİMLİK MESELESİ
-
-16. Kürt kimliği sitede merkez mi bağlam mı?
-Bağlam. Çok siyasete girmek istemiyorum ama duruşumdan da ödün vermem. Mesela Müslümanlar Kürtlere zülmedilirken sessiz kalmalarını açık açık zulme ortak olmakla suçlarım
-
-17. Etnik romantizmden nasıl uzak duracaksın?
-Ciddi bir çaba sarfetmem
-
-18. Ümmet bilinci ile etnik kimliği nasıl dengeleyeceksin?
-Ümmet her milletin ortak haklara sahip olduğu bir siyasi dini birlikteliktir. Arap devletliyse kkürtte devletli olacak
-
-19. Kürt siyasi hareketlerine mesafen olacak mı?
-Şeyh sait gibi ihsan nuri paşa gibi hareketlere mesafem olacak. Omuz omuza mesafem olacak. 
-
-20. Tarih anlatısında mitolojik unsurlara yer verecek misin?
-Elbette. Nuhun Kürtçe konuştuğu melik kürdim yunus peygamberin Kürtçe konuştuğu ve Diyarbakır ile ninovada yaşiadığı gibi anlatıları kaynaklarıyla anlatacağım.
-
-
-TON VE ÜSLUP
-
-21. Yazıların akademik mi deneme tarzı mı olacak?
-karışık
-
-22. Sert polemik yapacak mısın?
-bazen
-
-23. İroni kullanacak mısın?
-kaçınırım
-
-24. Kaynak gösterecek misin?
-elbette
-
-25. Uzun analiz mi kısa manifesto mu tercih ediyorsun?
-Konuya göre
-
-
-İÇERİK YAPISI
-
-26. Haftalık düzenli yayın olacak mı?
-Yok düzenli yayın olmayacak
-
-27. Seri yazılar yazacak mısın?
-evet
-
-28. PDF / e-kitap üretmeyi düşünüyor musun?
-Belki ama şimdi değil
-
-29. Misafir yazar olacak mı?
-hayır
-
-30. Video / ses içerik planlıyor musun?
-hayır
-
-
-ESTETİK VE MARKA
-
-31. Logo sadece tipografi mi olacak?
-tipografi
-
-32. Renk paleti nasıl?
-Kürdistani renkler ile İslami geleneğin renkleri karışık tema olacak
-
-33. Arka planda sembol kullanacak mısın?
-Arka plan sade açık ama gradyan olacak
-
-34. Site minimalist mi yoğun içerikli mi?
- Hem Minimalist hem yoğun içerikli olacak
-
-35. İngilizce versiyon olacak mı?
-Yok sadece Kürtçe ve Türkçe. Varsayılan dil Kürtçe olacak
-
-
-STRATEJİ
-
-36. SEO öncelik mi?
-değil
-
-37. Sosyal medya entegrasyonu olacak mı?
-Paylaştığım yazıların otomatik telegramda da paylaşabileceğim bir özet halinde bir entegrasyon olabilir
-
-38. Telegram sadece duyuru mu tartışma alanı mı?
-Paylaştığım yazıların otomatik telegramda da paylaşabileceğim bir özet halinde bir entegrasyon olabilir
-
-
-39. Eleştirilere açık moderasyon olacak mı?
-Moderasyon yorum vs olmayacak isteyen telegramdan yazabilir
-
-40. Site gelir modeli olacak mı?
-Gelir olmayacvak
-
-
-FİKRÎ DERİNLİK
-
-41. En çok hangi kavramı merkeze alıyorsun? (Adalet, mizan, nizam, ümmet vs.)
-Adalet mizan
-
-42. Sitenin kırmızı çizgisi ne?
-Din iman ayinman û niştiman
-
-43. En çok hangi düşünce akımıyla hesaplaşacaksın?
-Hesaplaşma yok. Dini çizgiden kopan her fikir eleştirilir. Ama unutma ben fikirlerimi yazacam kimseyle hesaplaşma derdim yok
-
-44. En çok hangi kesimi dönüştürmek istiyorsun?
-müslüman
-
-45. Kendi fikrî zayıf yönün ne?
-Medrese eğitimi
-
-
-VİZYON
-
-46. Bu site bir gün kapansa, arkasında ne kalmalı?
-yazılarım
-
-47. Seni en çok hangi yanlış anlaşılma rahatsız eder?
-Selefilik haricilik gibi kötü amaçlı yaftalamalar
-
-48. Yazıların daha çok öğretici mi provoke edici mi olacak?
-öğretici
-
-49. “Cennetül Hewsel” metaforunu her yerde kullanacak mısın yoksa arka planda mı kalacak?
-Yok bu sadece site ismi için geçerli. İçeriğe yansımaya gerek yok
-
-50. Tek cümleyle sitenin özü nedir?
-Din Îman Ayîman û Niştiman
-Ayrıca istediklerim header footer bölümleri ayrı kodlanmış olacak. Sayfaların sağ yanındaki (masaütü için) bar ayrı dsosyada olacak. Css ayrı dosyada olacak. Html dosyalarında asla css js kodları olmayacak
+<!DOCTYPE html>
+<html lang="ku">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İslamî Kurdistan | ناوێکی پیرۆز</title>
+    <!-- Font Awesome 6 (free) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Google Fonts: Alexandria (modern, temiz) + Scheherazade New (Kürtçe/Osmanlıca uyumu) -->
+    <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@300;400;600;700&family=Scheherazade+New:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(145deg, #f9f5ee 0%, #efe7db 100%);
+            font-family: 'Alexandria', sans-serif;
+            color: #2d2a24;
+            line-height: 1.6;
+            direction: ltr; /* çoğunlukla Latin, Kürtçe Latin bazlı */
+        }
+
+        /* Kürtçe / Arapça karakterler için destek */
+        .arabic, .kurdish-arab {
+            font-family: 'Scheherazade New', serif;
+            direction: rtl;
+            unicode-bidi: embed;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 0 25px;
+        }
+
+        /* HEADER — modern, yarı şeffaf, cam etkisi */
+        header {
+            background: rgba(255, 255, 255, 0.4);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.04);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            border-bottom: 1px solid rgba(232, 205, 162, 0.5);
+        }
+
+        .header-inner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 0;
+        }
+
+        .logo h1 {
+            font-size: 1.9rem;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            background: linear-gradient(135deg, #1f5e3a, #946b2b);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .logo i {
+            color: #b58b4b;
+            font-size: 2rem;
+            background: rgba(255,255,240,0.5);
+            padding: 8px;
+            border-radius: 50%;
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 32px;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            font-weight: 500;
+            color: #3a4a2c;
+            font-size: 1.1rem;
+            transition: 0.2s;
+            border-bottom: 2px solid transparent;
+            padding-bottom: 5px;
+        }
+
+        .nav-links a:hover {
+            border-bottom-color: #b9945c;
+            color: #6d4f23;
+        }
+
+        /* HERO - İslam ve Kürdistan motifleri */
+        .hero {
+            background: url('https://images.unsplash.com/photo-1584555574945-7e6fc1f12ebc?q=80&w=2069&auto=format&fit=crop') center/cover no-repeat;
+            /* Dağ ve yeşil doğa — Kürdistan’ı çağrıştırır */
+            position: relative;
+            border-radius: 0 0 40px 40px;
+            margin-bottom: 40px;
+            isolation: isolate;
+        }
+
+        .hero::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(97deg, rgba(18, 41, 21, 0.75) 10%, rgba(97, 67, 21, 0.45) 90%);
+            border-radius: 0 0 40px 40px;
+            z-index: 1;
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 110px 20px 130px 20px;
+            color: #fff8ed;
+        }
+
+        .hero-content h2 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            line-height: 1.2;
+            text-shadow: 2px 4px 12px rgba(0, 0, 0, 0.3);
+            margin-bottom: 15px;
+            font-family: 'Scheherazade New', serif;
+        }
+
+        .hero-content h2 span {
+            background: linear-gradient(145deg, #f7d89c, #ffd966);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            display: inline-block;
+        }
+
+        .hero-content p {
+            font-size: 1.3rem;
+            max-width: 700px;
+            background: rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(6px);
+            padding: 12px 28px;
+            border-radius: 60px;
+            font-weight: 300;
+            border: 1px solid rgba(255, 215, 140, 0.35);
+        }
+
+        .hero-date {
+            margin-top: 25px;
+            font-size: 1.2rem;
+            background: rgba(238, 195, 120, 0.25);
+            padding: 8px 22px;
+            border-radius: 40px;
+            display: inline-flex;
+            gap: 15px;
+        }
+
+        /* Bilgi kartları / Sütunlar */
+        .section-title {
+            text-align: center;
+            margin: 60px 0 40px;
+            position: relative;
+        }
+
+        .section-title h3 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: #2b4a2b;
+            display: inline-block;
+            background: #efe3d1;
+            padding: 0 30px;
+            border-radius: 100px;
+            letter-spacing: -0.3px;
+            box-shadow: 0 6px 12px rgba(87, 62, 30, 0.1);
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+
+        .card {
+            background: rgba(255, 250, 240, 0.7);
+            backdrop-filter: blur(8px);
+            border: 1px solid #e6d7bd;
+            border-radius: 32px;
+            padding: 30px 20px 25px 20px;
+            box-shadow: 0 30px 40px -25px rgba(74, 52, 20, 0.3);
+            transition: transform 0.25s ease, box-shadow 0.35s;
+            text-align: center;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 40px 50px -20px #5e4a2e;
+            border-color: #c9ad7e;
+            background: #fffcf3;
+        }
+
+        .card-icon {
+            font-size: 3.5rem;
+            color: #b77f3c;
+            margin-bottom: 15px;
+        }
+
+        .card h4 {
+            font-size: 1.9rem;
+            font-weight: 600;
+            color: #23542b;
+            margin-bottom: 12px;
+            font-family: 'Scheherazade New', serif;
+        }
+
+        .card p {
+            color: #3c3a33;
+            font-weight: 300;
+            font-size: 1rem;
+            margin-bottom: 20px;
+        }
+
+        .card .btn {
+            background: transparent;
+            border: 2px solid #b48b4b;
+            color: #4f5e2d;
+            border-radius: 50px;
+            padding: 8px 24px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: 0.2s;
+            display: inline-block;
+        }
+
+        .card .btn:hover {
+            background: #b48b4b;
+            color: #fef9e9;
+        }
+
+        /* vakit / zaman çizelgesi */
+        .prayer-section {
+            background: #24261f;
+            background-image: radial-gradient(circle at 10% 30%, #38452c 0%, #1f2a19 90%);
+            border-radius: 50px;
+            padding: 50px 30px;
+            color: #f4eadb;
+            margin: 60px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            align-items: center;
+            justify-content: space-around;
+            box-shadow: 0 25px 30px -10px #1a2a1a;
+        }
+
+        .prayer-text {
+            max-width: 400px;
+        }
+
+        .prayer-text h3 {
+            font-size: 2.8rem;
+            font-family: 'Scheherazade New', serif;
+            font-weight: 700;
+            color: #eccc8b;
+            line-height: 1.2;
+        }
+
+        .prayer-text i {
+            color: #bc9b5b;
+            margin-right: 8px;
+        }
+
+        .prayer-times {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px 35px;
+            background: rgba(0,0,0,0.3);
+            padding: 25px 35px;
+            border-radius: 60px;
+            backdrop-filter: blur(5px);
+            border: 1px solid #8f7a54;
+        }
+
+        .time-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .time-item span:first-child {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #e2c288;
+            text-transform: uppercase;
+        }
+
+        .time-item span:last-child {
+            font-size: 1.8rem;
+            font-weight: 600;
+            font-family: monospace;
+            letter-spacing: 2px;
+            background: #332f24;
+            padding: 5px 15px;
+            border-radius: 40px;
+            margin-top: 5px;
+            color: #fde3b6;
+        }
+
+        /* Kürdistan özel mesaj */
+        .kurdistan-highlight {
+            background: #f4eee2;
+            border-radius: 100px 20px 100px 20px;
+            padding: 40px 30px;
+            margin: 60px 0;
+            border-left: 12px solid #48945b;
+            border-right: 12px solid #c79a4b;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: space-around;
+            gap: 25px;
+        }
+
+        .kurdistan-highlight .flag {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+        }
+
+        .kurdistan-highlight .flag i {
+            font-size: 3.8rem;
+            color: #24943e;
+        }
+
+        .kurdistan-highlight .flag i.fa-sun {
+            color: #f5c542;
+        }
+
+        .kurdistan-highlight q {
+            font-size: 2rem;
+            font-weight: 500;
+            font-family: 'Scheherazade New', serif;
+            color: #2d3d1f;
+            max-width: 600px;
+            quotes: "“" "”" "‘" "’";
+        }
+
+        /* footer - modern sade */
+        footer {
+            background: #2c3023;
+            color: #ddd6c5;
+            padding: 40px 0 20px;
+            border-radius: 40px 40px 0 0;
+            margin-top: 80px;
+        }
+
+        .footer-content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .footer-links a {
+            color: #e5d7b8;
+            margin: 0 20px 0 0;
+            text-decoration: none;
+            font-weight: 300;
+            transition: 0.2s;
+        }
+
+        .footer-links a:hover {
+            color: #f5cb8b;
+        }
+
+        .social i {
+            font-size: 1.6rem;
+            margin: 0 10px;
+            color: #b9af92;
+            transition: 0.15s;
+        }
+
+        .social i:hover {
+            color: #eebb6a;
+            transform: scale(1.15);
+        }
+
+        .copyright {
+            text-align: center;
+            margin-top: 35px;
+            font-size: 0.95rem;
+            color: #9b927c;
+            border-top: 1px solid #4b4d3b;
+            padding-top: 25px;
+        }
+
+        .copyright span {
+            color: #dbb471;
+        }
+
+        /* responsive */
+        @media (max-width: 800px) {
+            .header-inner {
+                flex-direction: column;
+                gap: 15px;
+            }
+            .nav-links {
+                gap: 18px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .hero-content h2 {
+                font-size: 2.5rem;
+            }
+            .prayer-times {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .kurdistan-highlight q {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container header-inner">
+            <div class="logo">
+                <h1><i class="fas fa-mosque"></i> Îslam û Kurdistan</h1>
+            </div>
+            <div class="nav-links">
+                <a href="#">Destpêk</a>
+                <a href="#">Zanist</a>
+                <a href="#">Rewşenbîrî</a>
+                <a href="#">Pirsiyar</a>
+                <a href="#">Edalet</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="hero">
+        <div class="container hero-content">
+            <h2>
+                <span>بِسْمِ ٱللَّٰهِ</span> <br>
+                ji bo Kürdistanê
+            </h2>
+            <p>İslam, aştî, biratî û serbilindiya çiyayên bilind</p>
+            <div class="hero-date">
+                <i class="fas fa-calendar-alt" style="color: #ecd592;"></i> 15 Şaban 1446 ·  <i class="fas fa-map-pin" style="color: #e2c287;"></i> Hewlêr — Amed
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- değerler kartları -->
+        <div class="section-title">
+            <h3>🔹 Ruhê Îslam û Kürdistanê 🔹</h3>
+        </div>
+        <div class="cards-grid">
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-quran"></i></div>
+                <h4>Qur'an & Ehlaq</h4>
+                <p>Feqetî, edalet û exlaqê pêxemberî li ser rêça çiyayên bilind. Eşkereya qelb û ruh.</p>
+                <a href="#" class="btn">Bixwîne</a>
+            </div>
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-mountain-sun"></i></div>
+                <h4>Çiya û Azadî</h4>
+                <p>Kurdistan ne tenê welatek, helwestek e. Azadiya me di nav rengên xweza û baweriyê de ye.</p>
+                <a href="#" class="btn">Keşf bike</a>
+            </div>
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-hands-praying"></i></div>
+                <h4>Yekîtî & Biratî</h4>
+                <p>مُّحَمَّدٌ رَّسُولُ اللَّهِ ۚ وَالَّذِينَ مَعَهُ أَشِدَّاءُ عَلَى الْكُفَّارِ رُحَمَاءُ بَيْنَهُمْ</p>
+                <a href="#" class="btn">Bi hev re</a>
+            </div>
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-hand-holding-heart"></i></div>
+                <h4>Zekat û Destek</h4>
+                <p>Alîkarî li hevwelatiyên xwe yên kurd û misilman, bi taybetî li herêmên zehmet.</p>
+                <a href="#" class="btn">Pêşkêşî</a>
+            </div>
+        </div>
+
+        <!-- Ezan vakti / özel bölüm -->
+        <div class="prayer-section">
+            <div class="prayer-text">
+                <h3><i class="fas fa-clock"></i> Wextê Nivêjan</h3>
+                <p style="font-size: 1.2rem; opacity: 0.9;">Li gorî Bexda û Dihokê · 16. Rebiulahir</p>
+                <p style="margin-top: 10px;">"Namaz, müminler üzerine vakitleri belli bir farzdır." (Nisa 103)</p>
+            </div>
+            <div class="prayer-times">
+                <div class="time-item"><span>Fecir</span><span>04:12</span></div>
+                <div class="time-item"><span>Rojhilat</span><span>05:38</span></div>
+                <div class="time-item"><span>Nîvro</span><span>12:07</span></div>
+                <div class="time-item"><span>Esr</span><span>15:40</span></div>
+                <div class="time-item"><span>Mexreb</span><span>18:21</span></div>
+                <div class="time-item"><span>Eşa</span><span>19:42</span></div>
+            </div>
+        </div>
+
+        <!-- Kürdistanî mesaj  özel -->
+        <div class="kurdistan-highlight">
+            <div class="flag">
+                <i class="fas fa-mountain"></i>
+                <i class="fas fa-sun"></i>
+                <i class="fas fa-tree"></i>
+            </div>
+            <q>
+                Her kes ji dilê xwe de kurd e, yê ku ji bo rastiyê radiweste. 
+                <span style="display: block; margin-top: 8px; color: #846d3f;">— Şêx Seîd, Mele Mustefa Barzanî</span>
+            </q>
+            <div style="font-size: 3rem; color:#449944;">&#10057;&#10057;&#10057;</div>
+        </div>
+
+        <!-- ekstra grid: günlük hayat -->
+        <div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 30px 0 40px;">
+            <div style="background: #c8b18b20; border-radius: 40px; padding: 28px; flex: 1 1 200px; backdrop-filter: blur(3px);">
+                <i class="fas fa-feather" style="font-size: 2.3rem; color:#4f6d4f;"></i>
+                <h4 style="margin:10px 0 5px; color:#234f23;">Helbest & Edeb</h4>
+                <p style="font-family: 'Scheherazade New';">Ey kim wek çiyayên bilindî, gelê min…</p>
+            </div>
+            <div style="background: #c8b18b20; border-radius: 40px; padding: 28px; flex: 2 1 300px;">
+                <i class="fas fa-mosque" style="font-size: 2.3rem; color:#886633;"></i>
+                <h4 style="margin:10px 0 5px;">Mizgeft û Medrese</h4>
+                <p>Li bajarên Kürdistanê 1000’î zêdetir mizgeft û dibistanên Quranê hene.</p>
+            </div>
+            <div style="background: #c8b18b20; border-radius: 40px; padding: 28px; flex: 1 1 200px;">
+                <i class="fas fa-dove" style="font-size: 2.3rem; color:#b48b4b;"></i>
+                <h4 style="margin:10px 0 5px;">Aştî & Hewa</h4>
+                <p>Rojek li gel şemalê çiyê û zikrê Rehman.</p>
+            </div>
+        </div>
+
+    </div> <!-- container sonu -->
+
+    <footer>
+        <div class="container footer-content">
+            <div>
+                <h3 style="color: #e7cf9c; font-size: 1.9rem; font-family: 'Scheherazade New';">Kurdistan · İslam</h3>
+                <p style="opacity: 0.7;">Rojane bi ruhê Îslam û kultura kurdî</p>
+            </div>
+            <div class="footer-links">
+                <a href="#">Destpêk</a>
+                <a href="#">Mîsyona me</a>
+                <a href="#">Peywendî</a>
+                <a href="#">Ziman</a>
+            </div>
+            <div class="social">
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-telegram"></i>
+                <i class="fab fa-x-twitter"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+        <div class="copyright container">
+            <span>﴿ إِنَّ اللّهَ مَعَ الَّذِينَ اتَّقَواْ وَّالَّذِينَ هُم مُّحْسِنُونَ ﴾</span> <br>
+            © 2025 — Îslamî Kurdistan · hemû maf parastî ye
+        </div>
+    </footer>
+
+    <!-- küçük bir hilal efekti (ikonik) -->
+    <div style="position: fixed; bottom: 30px; right: 30px; background: #fbe9c3; width: 50px; height: 50px; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 5px 15px #cbad76; z-index: 999; border: 2px solid #a28352; color:#4f5e2d;">
+        <i class="fas fa-star-and-crescent" style="font-size: 2rem;"></i>
+    </div>
+</body>
+</html>

@@ -1,191 +1,180 @@
-Tamam. Nihayet işi ciddiye alıyoruz. “Site kurayım”dan çıkıp “kimliğini netleştireyim” aşamasına geldin. İş böyle yapılır.
-
-Sana 50 soru soracağım. Bunlar estetik değil, omurga soruları. Cevapların net olmalı. Yuvarlak konuşursan ortaya yuvarlak prompt çıkar.
-
-Hazırsan başlıyoruz.
-
 KİMLİK VE AMAÇ
 
 1. Bu siteyi açma temel motivasyonun nedir? Tepki mi, inşa mı?
-
+İnşa. Fikirlerimin derli toplu halde bulunması ve İslam almeindeki yanlışların düzeltilmesi
 
 2. Kendini daha çok düşünür mü, aktivist mi, müellif mi görüyorsun?
-
+Kendimi Müslüman bir kürd olarak görüyorum. Hem düşünür hem müellif
 
 3. Site uzun vadede bir okul gibi mi olacak yoksa kişisel arşiv mi?
-
+Temel amacım kişisel arşiv ama zaman ne gösterir belli değil. 
 
 4. Hedef kitlen kim? Gençler mi, entelektüeller mi, muhafazakâr çevre mi?
-
+Hepsi
 
 5. Bu site 5 yıl sonra neye dönüşmüş olmalı?
-
+Beş yıl sonra fikirlerimin derli toplu olduğu temelli bir fikir alanına dönmeli
 
 
 METODOLOJİ
 
 6. Kur’an yorumunda hangi yaklaşımı benimsiyorsun?
-
+Evvela dirayet yani akıl yoluyla, sonra idiği tarihsel bağlamda, sonra
 
 7. Hadis konusunda sınırın nedir?
-
+Kurana ve akla sığdığı noktada ele alınır. Ele alınacak hadisin şartları ise tam sahihliğidir. Bir milyon kişi sahihtir desin 1 kişi ravilerden biri unutkandı derse problemli hadistir.
 
 8. Mezheplerle mesafen nasıl?
-
+Mezheplerde kendi fikirlerine göre sistematik oluşturmuş dini kaynak olarak kullanan ama dine bağımlı olmayan yapılardır bence. Din mezheplere kaynaktır ama mezhepler dine kaynak olamaz.
 
 9. Tasavvufa bakışın nasıl konumlanacak?
-
+Kişisel deneyimdir.
 
 10. Aklın rolü ne olacak?
-
+Akıl en önemli ikinci şeydir. İlki vahiy ikincisi akıldır
 
 
 SİYASAL ÇERÇEVE
 
 11. Devlet tasavvurun teorik mi pratik mi?
-
+Pratik. Egemenlik Allaha ait olduğu için devlet emanetçisidir.
 
 12. Şeriat kavramını nasıl çerçeveleyeceksin?
-
+Şeriat kuran temelli kuralların olduğu çağın sorunlarına da gelenek temelli cevap veren bir kanun sistemidir.
 
 13. Hilafet meselesini nostaljik mi stratejik mi ele alacaksın?
-
+Hilafet stratejiktir. İslam dünyasını birbirine bağlayan yegane çizgidir.
 
 14. Ulus-devlet eleştirisi yapacak mısın?
-
+Hayır her kavim kendini yönetmekte özgürdür. 
 
 15. Laiklik konusundaki yaklaşımın tonu sert mi analitik mi?
-
+Laiklik yok.
 
 
 KİMLİK MESELESİ
 
 16. Kürt kimliği sitede merkez mi bağlam mı?
-
+Bağlam. Çok siyasete girmek istemiyorum ama duruşumdan da ödün vermem. Mesela Müslümanlar Kürtlere zülmedilirken sessiz kalmalarını açık açık zulme ortak olmakla suçlarım
 
 17. Etnik romantizmden nasıl uzak duracaksın?
-
+Ciddi bir çaba sarfetmem
 
 18. Ümmet bilinci ile etnik kimliği nasıl dengeleyeceksin?
-
+Ümmet her milletin ortak haklara sahip olduğu bir siyasi dini birlikteliktir. Arap devletliyse kkürtte devletli olacak
 
 19. Kürt siyasi hareketlerine mesafen olacak mı?
-
+Şeyh sait gibi ihsan nuri paşa gibi hareketlere mesafem olacak. Omuz omuza mesafem olacak. 
 
 20. Tarih anlatısında mitolojik unsurlara yer verecek misin?
-
+Elbette. Nuhun Kürtçe konuştuğu melik kürdim yunus peygamberin Kürtçe konuştuğu ve Diyarbakır ile ninovada yaşiadığı gibi anlatıları kaynaklarıyla anlatacağım.
 
 
 TON VE ÜSLUP
 
 21. Yazıların akademik mi deneme tarzı mı olacak?
-
+karışık
 
 22. Sert polemik yapacak mısın?
-
+bazen
 
 23. İroni kullanacak mısın?
-
+kaçınırım
 
 24. Kaynak gösterecek misin?
-
+elbette
 
 25. Uzun analiz mi kısa manifesto mu tercih ediyorsun?
-
+Konuya göre
 
 
 İÇERİK YAPISI
 
 26. Haftalık düzenli yayın olacak mı?
-
+Yok düzenli yayın olmayacak
 
 27. Seri yazılar yazacak mısın?
-
+evet
 
 28. PDF / e-kitap üretmeyi düşünüyor musun?
-
+Belki ama şimdi değil
 
 29. Misafir yazar olacak mı?
-
+hayır
 
 30. Video / ses içerik planlıyor musun?
-
+hayır
 
 
 ESTETİK VE MARKA
 
 31. Logo sadece tipografi mi olacak?
-
+tipografi
 
 32. Renk paleti nasıl?
-
+Kürdistani renkler ile İslami geleneğin renkleri karışık tema olacak
 
 33. Arka planda sembol kullanacak mısın?
-
+Arka plan sade açık ama gradyan olacak
 
 34. Site minimalist mi yoğun içerikli mi?
-
+ Hem Minimalist hem yoğun içerikli olacak
 
 35. İngilizce versiyon olacak mı?
-
+Yok sadece Kürtçe ve Türkçe. Varsayılan dil Kürtçe olacak
 
 
 STRATEJİ
 
 36. SEO öncelik mi?
-
+değil
 
 37. Sosyal medya entegrasyonu olacak mı?
-
+Paylaştığım yazıların otomatik telegramda da paylaşabileceğim bir özet halinde bir entegrasyon olabilir
 
 38. Telegram sadece duyuru mu tartışma alanı mı?
+Paylaştığım yazıların otomatik telegramda da paylaşabileceğim bir özet halinde bir entegrasyon olabilir
 
 
 39. Eleştirilere açık moderasyon olacak mı?
-
+Moderasyon yorum vs olmayacak isteyen telegramdan yazabilir
 
 40. Site gelir modeli olacak mı?
-
+Gelir olmayacvak
 
 
 FİKRÎ DERİNLİK
 
 41. En çok hangi kavramı merkeze alıyorsun? (Adalet, mizan, nizam, ümmet vs.)
-
+Adalet mizan
 
 42. Sitenin kırmızı çizgisi ne?
-
+Din iman ayinman û niştiman
 
 43. En çok hangi düşünce akımıyla hesaplaşacaksın?
-
+Hesaplaşma yok. Dini çizgiden kopan her fikir eleştirilir. Ama unutma ben fikirlerimi yazacam kimseyle hesaplaşma derdim yok
 
 44. En çok hangi kesimi dönüştürmek istiyorsun?
-
+müslüman
 
 45. Kendi fikrî zayıf yönün ne?
-
+Medrese eğitimi
 
 
 VİZYON
 
 46. Bu site bir gün kapansa, arkasında ne kalmalı?
-
+yazılarım
 
 47. Seni en çok hangi yanlış anlaşılma rahatsız eder?
-
+Selefilik haricilik gibi kötü amaçlı yaftalamalar
 
 48. Yazıların daha çok öğretici mi provoke edici mi olacak?
-
+öğretici
 
 49. “Cennetül Hewsel” metaforunu her yerde kullanacak mısın yoksa arka planda mı kalacak?
-
+Yok bu sadece site ismi için geçerli. İçeriğe yansımaya gerek yok
 
 50. Tek cümleyle sitenin özü nedir?
-
-
-
-Şimdi bunları cevapla. Hepsini. Net. Kaçamak yok.
-
-Cevaplarına göre sana tek, güçlü, profesyonel bir mega-prompt yazacağım. O prompt siteyi sadece tasarlatmaz; kimliğini kodlar.
-
-Bahçe kurmak istiyorsun. Önce toprağı analiz edeceğiz.
+Din Îman Ayîman û Niştiman
+Ayrıca istediklerim header footer bölümleri ayrı kodlanmış olacak. Sayfaların sağ yanındaki (masaütü için) bar ayrı dsosyada olacak. Css ayrı dosyada olacak. Html dosyalarında asla css js kodları olmayacak
